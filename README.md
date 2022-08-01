@@ -9,3 +9,4 @@ Jumper Wire
 Do connection as shown in diagram.
 ![image](https://user-images.githubusercontent.com/109454073/182101806-8e212390-c3ab-4779-b719-c563e80570be.png)
 90% of Sketch is same as previous tutorial for measuring distance using ultrasonic sensor.
+![image](https://user-images.githubusercontent.com/109454073/182130046-3eb3d148-a566-4880-ab60-4febcad4b5fa.png)
